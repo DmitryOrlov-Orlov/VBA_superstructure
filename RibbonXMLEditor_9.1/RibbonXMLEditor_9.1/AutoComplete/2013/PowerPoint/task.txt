@@ -1,0 +1,16 @@
+BroadcastSlideShowBackstage
+ButtonTaskDynamicServiceProvider
+ButtonTaskRecentDocuments
+CreateHandoutsInWord
+ExportToVideo
+FilePackageForCD
+FilePublishSlides
+FileSaveAsPdfOrXps
+FileTypeChange
+GetLinks
+SendByInstantMessage
+SendUsingEmail
+ShareWithNetwork
+ShareWithPeople
+WorkflowStart
+WorkflowsUnavailable

@@ -1,0 +1,11 @@
+BroadcastSlideShowBackstage
+ButtonTaskDynamicServiceProvider
+ButtonTaskRecentDocuments
+FileNewBlogPost
+FileSaveAsPdfOrXps
+FileTypeChange
+SendByInstantMessage
+SendUsingEmail
+ShareWithPeopleFromSharePane
+WorkflowStart
+WorkflowsUnavailable

@@ -1,0 +1,15 @@
+ApplicationOptionsDialog
+ButtonTaskSaveToWebProvider
+ClickToRunStatusUpdates
+FileSaveAsPdfOrXps
+FileSaveToSharePoint
+FileTypeChange
+Help
+HelpContactMicrosoft
+HelpGettingStarted
+ProductUpdates
+SendByInstantMessage
+SendUsingEmail
+ShareApplication
+WorkflowStart
+WorkflowsUnavailable

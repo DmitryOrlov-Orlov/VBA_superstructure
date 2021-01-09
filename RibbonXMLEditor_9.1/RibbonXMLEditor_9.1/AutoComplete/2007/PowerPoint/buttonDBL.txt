@@ -1,0 +1,8 @@
+FontDialogPowerPoint
+ObjectEditDialog
+ObjectFormatDialog
+ObjectSizeAndPositionDialog
+PowerPointParagraphDialog
+ShowClipboard
+SlideBackgroundFormatDialog
+WordArtFormatDialog

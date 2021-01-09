@@ -1,0 +1,6 @@
+FormattingRequiredField
+FormattingUnique
+Indexed
+PrintDataOnly
+ShowMargins
+ViewMessageBar

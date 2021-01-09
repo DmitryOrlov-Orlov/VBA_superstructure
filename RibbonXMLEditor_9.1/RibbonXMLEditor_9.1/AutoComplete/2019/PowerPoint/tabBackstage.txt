@@ -1,0 +1,11 @@
+PlaceTabHome
+TabHelp
+TabInfo
+TabOfficeFeedback
+TabOfficeStart
+TabPrint
+TabProfile
+TabPublish
+TabRecent
+TabSave
+TabShare

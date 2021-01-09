@@ -1,0 +1,9 @@
+Publish2Tab
+TabHelp
+TabInfo
+TabOfficeStart
+TabPrint
+TabPublish
+TabRecent
+TabSave
+TabShare

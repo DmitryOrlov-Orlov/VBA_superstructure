@@ -1,0 +1,4 @@
+AdvanceSlideLabel
+CDAudioStartPlayingLabel
+CDAudioStopPlayingLabel
+PrintWhatLabel

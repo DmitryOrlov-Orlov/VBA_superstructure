@@ -1,0 +1,6 @@
+ButtonCategoryRecentDocuments
+FileTypes
+Publish2ButtonCategory
+Save
+Share
+Workflow

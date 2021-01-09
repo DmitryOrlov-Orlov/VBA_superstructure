@@ -1,0 +1,16 @@
+TabSetAdpDiagram
+TabSetAdpFunctionAndViewTools
+TabSetAdpSqlStatement
+TabSetAdpStoredProcedure
+TabSetFormReportExtensibility
+TabSetFormTools
+TabSetFormToolsLayout
+TabSetMacroTools
+TabSetPivotChartAccess
+TabSetPivotTableAccess
+TabSetQueryTools
+TabSetRelationshipTools
+TabSetReportTools
+TabSetReportToolsLayout
+TabSetTableToolsDatasheet
+TabSetTableToolsDesign

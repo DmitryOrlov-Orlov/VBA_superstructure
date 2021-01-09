@@ -1,0 +1,14 @@
+EffectOptionsDialog
+EquationOptions
+FontDialogPowerPoint
+FormatDialog3DModel
+GraphicsFormatDialog
+GridSettings
+ObjectEditDialog
+ObjectFormatDialog
+ObjectSizeAndPositionDialog
+PictureFormatDialog
+PowerPointParagraphDialog
+ShowClipboard
+SlideBackgroundFormatDialog
+WordArtFormatDialog

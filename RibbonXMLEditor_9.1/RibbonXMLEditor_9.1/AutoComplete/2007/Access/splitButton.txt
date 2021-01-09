@@ -1,0 +1,10 @@
+AlignLeftToRightMenu
+ClearMenuAccess
+ControlSpecialEffectMenu
+CreateOtherObjectsMenu
+FilePrintMenu
+FileSaveAsMenuAccess
+PasteSpecial
+PrintPreviewZoomMenu
+RecordsRefreshMenu
+ViewsModeMenu

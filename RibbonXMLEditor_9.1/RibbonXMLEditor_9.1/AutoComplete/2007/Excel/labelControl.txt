@@ -1,0 +1,4 @@
+ChartNameLabel
+LabelActiveField
+PivotTableNameLabel
+TableNameLabel

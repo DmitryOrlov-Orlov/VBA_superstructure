@@ -1,0 +1,14 @@
+BroadcastSlideShowBackstage
+ButtonTaskDynamicServiceProvider
+ButtonTaskFixItHub
+ButtonTaskRecentDocuments
+ButtonTaskSharedWithMe
+FileNewBlogPost
+FileSaveAsPdfOrXps
+FileTypeChange
+PublishToDocs
+SendByInstantMessage
+SendUsingEmail
+ShareWithPeopleFromSharePane
+WorkflowStart
+WorkflowsUnavailable

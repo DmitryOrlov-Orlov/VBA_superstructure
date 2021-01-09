@@ -1,0 +1,7 @@
+BibliographyStyle
+ChartElementSelector
+DocumentLocation
+Font
+FontSize
+SetLanguageMenu
+StyleGalleryClassic

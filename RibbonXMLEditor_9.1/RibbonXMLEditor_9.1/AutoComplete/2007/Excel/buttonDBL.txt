@@ -1,0 +1,11 @@
+CellAlignmentOptions
+ChartTypeAllInsertDialog
+FormatCellsFontDialog
+FormatCellsNumberDialog
+ObjectFormatDialog
+ObjectSizeAndPropertiesDialog
+OutlineSettings
+PageSetupPageDialog
+PageSetupSheetDialog
+ShowClipboard
+WordArtFormatDialog

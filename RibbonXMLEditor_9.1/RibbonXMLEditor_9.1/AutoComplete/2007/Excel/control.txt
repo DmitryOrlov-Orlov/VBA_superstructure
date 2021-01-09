@@ -1,0 +1,7 @@
+ChartName
+PageScaleToFitScale
+PivotFieldName
+PivotTableName
+ShapeHeight
+ShapeWidth
+TableName

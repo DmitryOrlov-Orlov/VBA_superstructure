@@ -1,0 +1,7 @@
+ChartNameLabel
+GridlinesLabel
+HeadingsLabel
+LabelActiveField
+PivotTableNameLabel
+SlicerNameLabel
+TableNameLabel

@@ -1,0 +1,17 @@
+TabSet3DModelTools
+TabSetChartTools
+TabSetDiagramTools
+TabSetDrawingTools
+TabSetDrawingToolsClassic
+TabSetEquationTools
+TabSetHeaderAndFooterTools
+TabSetInkTools
+TabSetLearningTools
+TabSetOrganizationChartTools
+TabSetPictureTools
+TabSetPictureToolsClassic
+TabSetSmartArtTools
+TabSetSVGTools
+TabSetTableTools
+TabSetTextBoxTools
+TabSetWordArtTools

@@ -1,0 +1,12 @@
+ApplicationOptionsDialog
+ClickToRunStatusUpdates
+FilePrintPreview
+FilePrintQuick
+Help
+HelpContactMicrosoft
+HelpGettingStarted
+PrintDialogAccess
+ProductUpdates
+PublishToAccessServices
+SaveDatabaseAs
+SaveObjectAs

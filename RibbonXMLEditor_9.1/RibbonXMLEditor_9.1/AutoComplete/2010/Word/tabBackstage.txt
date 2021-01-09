@@ -1,0 +1,6 @@
+TabHelp
+TabInfo
+TabNew
+TabPrint
+TabRecent
+TabShare

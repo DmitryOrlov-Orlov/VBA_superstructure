@@ -1,0 +1,13 @@
+BroadcastSlideShowBackstage
+ButtonTaskDynamicServiceProvider
+ButtonTaskRecentDocuments
+FileNewBlogPost
+FileSaveAsPdfOrXps
+FileTypeChange
+GetLinks
+SendByInstantMessage
+SendUsingEmail
+ShareWithNetwork
+ShareWithPeople
+WorkflowStart
+WorkflowsUnavailable

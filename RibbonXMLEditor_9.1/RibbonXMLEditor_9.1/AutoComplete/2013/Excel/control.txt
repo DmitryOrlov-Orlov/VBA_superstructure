@@ -1,0 +1,17 @@
+AllowPersonallyIdentifiableInformation
+ChartName
+FileDocumentEncrypt
+FileMarkAsFinal
+FormatPainter
+NoTcid
+PageScaleToFitScale
+PivotFieldName
+PivotTableName
+ShapeHeight
+ShapeWidth
+SlicerColumnWidth
+SlicerName
+SlicerNumberOfColumns
+SlicerRowHeight
+TableName
+TimeSlicerName

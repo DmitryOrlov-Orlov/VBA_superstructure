@@ -1,0 +1,13 @@
+AnimationStartDropdown
+AnimationTransitionSoundGallery
+AnimationTransitionSpeedGallery
+AudioStartGallery
+CDAudioPlayTrackAutomatically
+MoviePlayAutomatically
+PrintWhat
+SlideShowResolutionGallery
+SlideShowShowPresentationOnGallery
+SoundPlaySoundGallery
+TableDrawBorderPenStyle
+TableDrawBorderPenWeight
+VideoStartGallery

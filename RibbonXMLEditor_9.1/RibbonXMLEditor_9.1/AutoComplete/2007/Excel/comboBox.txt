@@ -1,0 +1,7 @@
+ChartElementSelector
+DocumentLocation
+Font
+FontSize
+NumberFormatGallery
+PageScaleToFitHeight
+PageScaleToFitWidth

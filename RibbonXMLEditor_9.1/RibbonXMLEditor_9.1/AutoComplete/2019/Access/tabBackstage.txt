@@ -1,0 +1,7 @@
+TabHelp
+TabInfo
+TabOfficeFeedback
+TabOfficeStart
+TabPrint
+TabRecent
+TabSave

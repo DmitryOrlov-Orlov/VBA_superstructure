@@ -1,0 +1,9 @@
+TabSetChartTools
+TabSetDrawingTools
+TabSetHeaderAndFooterTools
+TabSetInkTools
+TabSetPictureTools
+TabSetPivotChartTools
+TabSetPivotTableTools
+TabSetSmartArtTools
+TabSetTableToolsExcel

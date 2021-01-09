@@ -1,0 +1,16 @@
+CellAlignmentOptions
+ChartDialogLauncherAll
+EquationOptions
+FormatCellsFontDialog
+FormatCellsNumberDialog
+FormatDialog3DModel
+GraphicsFormatDialog
+ObjectFormatDialog
+ObjectSizeAndPositionDialog
+ObjectSizeAndPropertiesDialog
+OutlineSettings
+PageSetupPageDialog
+PageSetupSheetDialog
+PictureFormatDialog
+ShowClipboard
+WordArtFormatDialog

@@ -1,0 +1,14 @@
+FilePrintMenu
+FileSaveAsMenu
+MovieInsert
+ObjectBringToFrontMenu
+ObjectSendToBackMenu
+PasteMenu
+PhotoAlbumInsertMenu
+ReplaceMenu
+ReviewDeleteCommentsMenuPowerPoint
+SlideMasterInsertPlaceholderMenu
+SmartArtAddShapeSplitMenu
+SoundInsertMenu
+TableBordersMenu
+TextBoxInsertMenu

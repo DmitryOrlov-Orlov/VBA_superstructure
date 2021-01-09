@@ -1,0 +1,17 @@
+BroadcastSlideShowBackstage
+ButtonTaskDynamicServiceProvider
+ButtonTaskFixItHub
+ButtonTaskRecentDocuments
+ButtonTaskSharedWithMe
+CreateHandoutsInWord
+ExportToVideo
+FilePackageForCD
+FilePublishSlides
+FileSaveAsPdfOrXps
+FileTypeChange
+SendByInstantMessage
+SendUsingEmail
+ShareWithPeopleFromSharePane
+UploadToMSStream
+WorkflowStart
+WorkflowsUnavailable

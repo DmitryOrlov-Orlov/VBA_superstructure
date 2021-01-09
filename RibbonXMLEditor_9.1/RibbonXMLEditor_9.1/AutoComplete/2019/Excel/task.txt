@@ -1,0 +1,14 @@
+AppShare
+ButtonTaskDynamicServiceProvider
+ButtonTaskFixItHub
+ButtonTaskRecentDocuments
+ButtonTaskSharedWithMe
+FileSaveAsPdfOrXps
+FileTypeChange
+PublishToDocs
+PublishToPowerBI
+SendByInstantMessage
+SendUsingEmail
+ShareWithPeopleFromSharePane
+WorkflowStart
+WorkflowsUnavailable

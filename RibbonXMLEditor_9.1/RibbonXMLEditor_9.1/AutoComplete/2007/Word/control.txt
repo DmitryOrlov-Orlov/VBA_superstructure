@@ -1,0 +1,11 @@
+HeaderFooterPositionFooterFromBottom
+HeaderFooterPositionHeaderFromTop
+MailMergeGoToRecord
+ParagraphIndentLeft
+ParagraphIndentRight
+ParagraphSpacingAfter
+ParagraphSpacingBefore
+ShapeHeight
+ShapeWidth
+TableColumnWidth
+TableRowHeight

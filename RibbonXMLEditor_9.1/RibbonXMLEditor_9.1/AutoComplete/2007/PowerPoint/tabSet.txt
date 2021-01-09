@@ -1,0 +1,9 @@
+TabSetCDAudioTools
+TabSetChartTools
+TabSetDrawingTools
+TabSetInkTools
+TabSetMovieTools
+TabSetPictureTools
+TabSetSmartArtTools
+TabSetSoundTools
+TabSetTableTools

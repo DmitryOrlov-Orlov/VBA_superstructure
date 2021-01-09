@@ -1,0 +1,16 @@
+BordersShadingDialogWord
+DrawingObjectFormatDialog
+EquationOptions
+FontDialog
+FootnoteEndnoteDialog
+LineStylesDialog
+ObjectFormatDialog
+ObjectSizeDialog
+ObjectSizeDialogClassic
+PageSetupDialog
+ParagraphDialog
+ShowClipboard
+StylesPane
+TableInsertCellsDialog
+TablePropertiesDialog
+WordArtFormatDialog

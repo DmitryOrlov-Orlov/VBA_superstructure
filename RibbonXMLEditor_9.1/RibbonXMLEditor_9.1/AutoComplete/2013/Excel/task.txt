@@ -1,0 +1,12 @@
+AppShare
+ButtonTaskDynamicServiceProvider
+ButtonTaskRecentDocuments
+FileSaveAsPdfOrXps
+FileTypeChange
+GetLinks
+SendByInstantMessage
+SendUsingEmail
+ShareWithNetwork
+ShareWithPeople
+WorkflowStart
+WorkflowsUnavailable

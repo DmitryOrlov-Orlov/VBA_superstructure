@@ -1,0 +1,12 @@
+TabSetFormDatasheet
+TabSetFormReportExtensibility
+TabSetFormTools
+TabSetFormToolsLayout
+TabSetMacroTools
+TabSetQueryTools
+TabSetRelationshipTools
+TabSetReportTools
+TabSetReportToolsLayout
+TabSetTableToolsDatasheet
+TabSetTableToolsDesign
+TabSetWebFormLayout

@@ -1,0 +1,12 @@
+CDAudioStartTime
+CDAudioStartTrack
+CDAudioStopTime
+CDAudioStopTrack
+ShapeHeight
+ShapeWidth
+SoundMaximumFileSize
+TableColumnWidth
+TableHeight
+TableRowHeight
+TableWidth
+TransitionTimeAutomaticallyAfter

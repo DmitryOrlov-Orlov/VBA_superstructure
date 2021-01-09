@@ -1,0 +1,15 @@
+TabSetChartTools
+TabSetDrawingTools
+TabSetEquationTools
+TabSetHeaderAndFooterTools
+TabSetInkTools
+TabSetPictureTools
+TabSetPivotChartTools
+TabSetPivotTableTools
+TabSetPowerQueryEdit
+TabSetPowerQuerySearch
+TabSetSlicerTools
+TabSetSmartArtTools
+TabSetSparkline
+TabSetTableToolsExcel
+TabSetTimeSlicerTools
